@@ -17559,7 +17559,7 @@
                 }))), l.default.createElement("div", {
                     className: h.default.guide + " " + h.default.left
                 }, l.default.createElement("p", null, l.default.createElement("a", {
-                    href: "https://github.com/chvin/react-tetris",
+                    href: "https://github.com/aden971113/tetris",
                     rel: "noopener noreferrer",
                     target: "_blank",
                     title: v.i18n.linkTitle[v.lan]
